@@ -1,0 +1,5 @@
+mlx
+numpy
+matplotlib
+scikit-image
+pillow
