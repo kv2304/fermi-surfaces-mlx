@@ -1,5 +1,5 @@
-mlx
-numpy
-matplotlib
-scikit-image
-pillow
+mlx~=0.32.4
+numpy>=2.5
+matplotlib>=3.11
+scikit-image>=0.26
+pillow>=13.0
